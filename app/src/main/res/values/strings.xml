@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CPClient</string>
+    <string name="name_hint">Name</string>
+    <string name="num1_hint">Number 1</string>
+    <string name="num2_hint">Number 2</string>
+    <string name="btn_msg">Multiply</string>
+</resources>
